@@ -23,7 +23,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: self-win10
+    runs-on: self-hosted
     permissions:
       actions: read
       contents: read
